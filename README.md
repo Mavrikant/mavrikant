@@ -1,10 +1,10 @@
 # Hello, developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is M. Serdar Karaman and I'm a software developer. I'm from Turkey, living in Ankara and currently working at subsidy of ASELSAN. You can find me on [![LinkedIn][3.2]][2].
+My name is M. Serdar Karaman and I'm a software developer. I'm from Turkey, living in Ankara and currently working at a subsidy of ASELSAN. You can find me on [![LinkedIn][3.2]][2].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [karaman.dev](https://karaman.dev/) as well as on [Medium](https://medium.com/@mavrikant). I'm also contributor at Wikipedia (Check [User:Mavrikant](https://en.wikipedia.org/wiki/User:Mavrikant) )
+Apart from coding, I also maintain a blog - you can find my articles on my website at [karaman.dev](https://karaman.dev/) as well as on [Medium](https://medium.com/@mavrikant). I'm also a contributor at Wikipedia (Check [User:Mavrikant](https://en.wikipedia.org/wiki/User:Mavrikant))
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/youtube/channel/subscribers/UCIlBH9QynIkHxX8uiY0UEMQ?style=social)
