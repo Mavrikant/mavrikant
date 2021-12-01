@@ -1,6 +1,6 @@
 # Hello, developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is M. Serdar Karaman and I'm a software developer. I'm from Turkey, living in Ankara and currently working at a subsidy of ASELSAN. You can find me on [![LinkedIn][3.2]][2].
+My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Turkey, living in Ankara and currently working for a subsidiary of ASELSAN. You can find me on [![LinkedIn][3.2]][2].
 
 ## &#x270d; Blog & Writing
 
