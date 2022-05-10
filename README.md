@@ -4,7 +4,7 @@ My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Tur
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [karaman.dev](https://karaman.dev/) as well as on [Medium](https://medium.com/@mavrikant). I'm also a contributor at Wikipedia (Check [User:Mavrikant](https://en.wikipedia.org/wiki/User:Mavrikant))
+Apart from coding, I also maintain a blog - you can find my articles on my website at [karaman.dev](https://karaman.dev/) as well as on [Medium](https://medium.com/@m.serdar.karaman). I'm also a contributor at Wikipedia (Check [User:Mavrikant](https://en.wikipedia.org/wiki/User:Mavrikant))
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/youtube/channel/subscribers/UCIlBH9QynIkHxX8uiY0UEMQ?style=social)
