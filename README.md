@@ -1,6 +1,6 @@
 # Hello, developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Turkey, living in Ankara and currently working for a subsidiary of ASELSAN. You can find me on [![LinkedIn][3.2]][2].
+My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Turkey, living in Ankara and currently working for [ESEN System](https://esensi.com.tr/). You can find me on [![LinkedIn][3.2]][2].
 
 ## &#x270d; Blog & Writing
 
@@ -10,6 +10,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/youtube/channel/subscribers/UCIlBH9QynIkHxX8uiY0UEMQ?style=social)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
