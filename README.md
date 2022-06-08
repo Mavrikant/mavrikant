@@ -1,4 +1,4 @@
-# Hello, developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
 My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Turkey, living in Ankara and currently working for [ESEN System](https://esensi.com.tr/). You can find me on [![LinkedIn][3.2]][2].
 
