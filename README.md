@@ -1,6 +1,20 @@
 # Hello, developers! I'm Serdar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 
-My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Turkey, living in Ankara and currently working for [ESEN System](https://esensi.com.tr/). You can find me on [![LinkedIn][3.2]][2].
+My name is M. Serdar Karaman and I'm a avionics software developer. I'm from Turkey, living in Ankara and currently working for [ESEN System](https://esensi.com.tr/). 
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/in/mserdarkaraman/)
+
+<p align="center">
+Visitor Counter: <img align="center" alt="visitors" src="https://profile-counter.glitch.me/mavrikant/count.svg" />
+<br>
+<br>
+  <a href="https://karaman.dev"><img src="https://img.shields.io/badge/karaman.dev-%430077B5.svg?&style=for-the-badge&logo=love&logoColor=orange" alt="karaman.dev" /></a>&nbsp;
+  <a href="mailto:serdar@karaman.dev?subject=Hello, Serdar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mserdarkaraman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCIlBH9QynIkHxX8uiY0UEMQ"><img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" /></a>&nbsp;
+</p>
+
+
 
 ## &#x270d; Blog & Writing
 
