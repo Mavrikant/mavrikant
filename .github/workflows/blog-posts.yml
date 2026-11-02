@@ -20,4 +20,6 @@ jobs:
           max_post_count: 5
           template: "- [$title]($url) <sub>· $date</sub>$newline"
           date_format: "UTC:mmm d, yyyy"
+          # custom templates are inserted right after the START tag otherwise
+          tag_post_pre_newline: true
           commit_message: "Update latest blog posts"
