@@ -1,0 +1,23 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Pull latest posts from karaman.dev into README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://karaman.dev/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          date_format: "UTC:mmm d, yyyy"
+          commit_message: "Update latest blog posts"
