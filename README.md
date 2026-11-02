@@ -96,10 +96,11 @@ I write field notes on avionics software, DO-178C, systems engineering and safet
 
 ➡️ [All posts](https://karaman.dev/) · [RSS](https://karaman.dev/feed.xml)
 
-## 📈 GitHub activity
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mavrikant&theme=dark&hide_border=true&background=1d1f21&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a" alt="GitHub streak stats">
+  <a href="https://github.com/Mavrikant?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Mavrikant?style=flat-square&label=Stars&color=2bbc8a&logo=github" alt="GitHub stars"></a>
+  <a href="https://github.com/Mavrikant?tab=followers"><img src="https://img.shields.io/github/followers/Mavrikant?style=flat-square&label=Followers&color=2bbc8a&logo=github" alt="GitHub followers"></a>
 </p>
 
 <p align="center"><b>Show some ❤️ by starring the repositories you find useful!</b></p>
