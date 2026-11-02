@@ -86,8 +86,7 @@ I build **safety-critical avionics software** — the kind that has to work ever
 
 I write field notes on avionics software, DO-178C, systems engineering and safety-critical engineering at **[karaman.dev](https://karaman.dev/)** (in Turkish). You can also find me on [Medium](https://medium.com/@m.serdar.karaman).
 
-<!-- BLOG-POST-LIST:START -->
-- [INCOSE CSEP: Sınavdan Sertifikaya Yolculuğum](https://karaman.dev/2026/10/01/incose-csep-sertifikasyonu-yolculugum.html) <sub>· Oct 1, 2026</sub>
+<!-- BLOG-POST-LIST:START -->- [INCOSE CSEP: Sınavdan Sertifikaya Yolculuğum](https://karaman.dev/2026/10/01/incose-csep-sertifikasyonu-yolculugum.html) <sub>· Oct 1, 2026</sub>
 - [Analitiğin Dört Hâli: Descriptive, Diagnostic, Predictive, Prescriptive](https://karaman.dev/2026/09/22/analitigin-dort-hali-descriptive-diagnostic-predictive-prescriptive.html) <sub>· Sep 22, 2026</sub>
 - [Dogfooding: Kendi Ürününü Kullanmak](https://karaman.dev/2026/09/04/dogfooding-kendi-urununu-kullanmak.html) <sub>· Sep 4, 2026</sub>
 - [Antikırılgan: Belirsizlikten ve Kaostan Güç Alan Sistemler](https://karaman.dev/2026/06/24/antikirilgan-belirsizlikten-guc-alan-sistemler.html) <sub>· Jun 24, 2026</sub>
